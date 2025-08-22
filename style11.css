@@ -1,0 +1,13 @@
+.h11{border-radius: 5px;padding: 5px;margin: 0%;background-color: aqua;
+    font-family: 'Times New Roman', Times, serif;}
+.h11:hover{background-color: rgb(116, 239, 241);}
+
+/* for lable design. */
+label{
+    font-size: larger;padding: 5px;}
+
+input{
+    padding: 5px;
+    border-radius: 5px;
+
+}
